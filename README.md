@@ -34,14 +34,3 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=angular,react,nextjs,redux,tailwind,bootstrap,flowbite,jquery,shadcn,chartjs,html,css,js,ts,nodejs,express,mongodb,mysql,jwt,socketio,restapi&perline=7" style="height:113px;"/>
 </p>
 
-### 🏆 GitHub Trophies
-<p align="left">
-  ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/>
-</p>
-
-![Snake Animation](https://github.com/A-Hemeda/A-Hemeda/blob/output/snake-dark.svg)
