@@ -28,18 +28,12 @@
 
 ### 📤 Connect & Competitive Programming
 <p align="left">
-  <a href="mailto:ahmedhamed.dev@gmail.com">
+  <a href="mailto:ah1973826450@gmail.com">
     <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
-  <a href="https://www.linkedin.com/in/ahmed-hamed">
+  <a href="https://www.linkedin.com/in/ahmed-hamed-591446359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
-  <a href="https://www.youtube.com/@A-Hemeda">
-    <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="50"/></a> &nbsp;
-  <a href="https://stackoverflow.com/users/28317461/ahmed-hemeda">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" height="50"/></a> &nbsp;
-  <a href="https://codeforces.com/profile/11Hemeda">
+  <a href="https://codeforces.com/profile/Ahmed_Hamed.">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="50"/></a> &nbsp;
-  <a href="https://leetcode.com/u/A-Hemeda/">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="50"/></a>
 </p>
 
 ### 🛠️ Top Technical Skills & Tools
