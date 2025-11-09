@@ -65,9 +65,9 @@
 <p align="left">
   <a href="mailto:ah1973826450@gmail.com">
     <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png" height="50"/></a> &nbsp;
-  <a href="https://www.linkedin.com/in/ahmed-hamed-591446359/">
+  <a href="https://www.linkedin.com/in/ahmed-hamed-591446359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
-  <a href="https://codeforces.com/profile/Ahmed_Hamed">
+  <a href="https://codeforces.com/profile/Ahmed_Hamed.">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="50"/></a> &nbsp;
 </p>
 
