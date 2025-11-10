@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1RRgrOwRUK0rWGydbv8KwEeHfaW8pK2Wr">
     <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
-  <a href="http://ahmedhamed.surge.sh/">
+  <a href="https://ahmedhamed2002.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
 </p>
 
